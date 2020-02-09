@@ -12,7 +12,7 @@ i = 1  # control while loop turns
 # c = 0 this will stop the loop
 turn = 0
 
-
+print(c)
 
 
 print("done")
